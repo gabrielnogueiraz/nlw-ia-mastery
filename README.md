@@ -50,7 +50,6 @@ This project was developed with:
 
 ---
 
-<h2>💡 Developed by</h2>
 
 
 
