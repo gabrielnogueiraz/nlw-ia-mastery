@@ -1,12 +1,21 @@
-NLW Artificial Intelligence
-💬 About
+<h1 align="center">NLW Artificial Intelligence</h1>
+
+<h2>💬 About</h2>
 This is a project developed by Rocketseat where a webapp created uses an OpenAI API to transcribe videos.
-🔧 Tools and Technologies
+
+---
+
+<h2>🔧 Tools and Technologies</h2>
+
 This project was developed with:
 
-Backend: OpenAI, Nodejs, Fastify, Sqlite, Postgres, Prisma, Zod & etc.
-Frontend: React, Vite, ShadcnUI, Tailwind, Lucide React & etc.
-⏫ Next Level
+- Backend: OpenAI, Nodejs, Fastify, Sqlite, Postgres, Prisma, Zod & etc.
+- Frontend: React, Vite, ShadcnUI, Tailwind, Lucide React & etc.
+
+---
+
+<h2>⏫ Next Level</h2>
+
 ✅ Responsiveness
 
 ✅ Dark Theme
@@ -17,7 +26,11 @@ Frontend: React, Vite, ShadcnUI, Tailwind, Lucide React & etc.
 
 ✅ Postgres
 
-📦 How to Contribute
+---
+
+<h2>📦 How to Contribute</h2>
+
+```
 
 - Fork this repository;
 
@@ -28,6 +41,17 @@ Frontend: React, Vite, ShadcnUI, Tailwind, Lucide React & etc.
 
 
 - Commit your changes: `git commit -m 'feat: My new feature'`
+
+
+
+- Push your branch: `git push origin my-feature`
+
+```
+
+---
+
+<h2>💡 Developed by</h2>
+
 
 
 
